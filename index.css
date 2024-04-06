@@ -418,13 +418,13 @@ body{
 }
 .home_icon { 
 	filter: invert(63%) sepia(6%) saturate(1742%) hue-rotate(167deg) brightness(95%) contrast(99%);
-	width:25px;
-	height:25px;
+	width:28px;
+	height:28px;
 	position:absolute;
 	left:32px;
-	top:27.5px;
+	top:26px;
 }
-.e7_27 { 
+.map { 
 	width:25px;
 	height:25px;
 	position:absolute;
@@ -439,7 +439,7 @@ body{
 	left:1.562491774559021px;
 	top:1.8563220500946045px;
 }
-.e7_29 { 
+.run { 
 	width:26px;
 	height:26px;
 	position:absolute;
@@ -454,7 +454,7 @@ body{
 	left:0.4799995422363281px;
 	top:0.519989013671875px;
 }
-.e7_32 { 
+.group { 
 	width:30px;
 	height:30px;
 	position:absolute;
@@ -469,7 +469,7 @@ body{
 	left:-0.25px;
 	top:1px;
 }
-.e7_34 { 
+.my { 
 	width:25px;
 	height:25px;
 	position:absolute;
