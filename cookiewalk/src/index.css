@@ -34,7 +34,9 @@ body{
 	width:390px;
 	height:112px;
 }
-.e7_7 { 
+
+
+.home_title { 
 	color:rgba(19.0000007674098, 19.0000007674098, 19.0000007674098, 1);
 	width:68px;
 	height:25px;
@@ -216,7 +218,7 @@ body{
 	position:absolute;
 	left:11px;
 	top:177px;
-	background-image:url(images/ellipse_7.png);
+	/* background-image:url('/images/ellipse_7.png'); */
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -251,7 +253,7 @@ body{
 	color:rgba(19.0000007674098, 19.0000007674098, 19.0000007674098, 1);
 	font-weight: 600;
 	width:77px;
-	height:19px;
+	height:21px;
 	position:relative;
 	left:10px;
 	top:680px;
@@ -265,7 +267,7 @@ body{
 	/* height:19px; */
 	position:relative;
 	left:10px;	
-	padding-right: 10px;
+  padding-right: 10px;
 	top:680px;
 	font-family:Noto Sans KR;
 	/* text-align:left; */
@@ -276,7 +278,7 @@ body{
 .comment_num { 
 	color:rgba(120.40007337927818, 120.40007337927818, 120.40007337927818, 1);
 	/* width:100px; */
-	/* height:19px; */
+	height:21px;
 	position:relative;
 	left:10px;
 	top:685px;
@@ -334,7 +336,7 @@ body{
 	position:absolute;
 	left:0px;
 	top:229px;
-	background-image:url(images/rectangle_2.png);
+	/* background-image:url(../public/images/rectangle_2.png); */
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -420,8 +422,6 @@ body{
 	background-color:rgba(255, 255, 255, 1);
 	width:390px;
 	height:80px;
-	border-top-left-radius: 6px;
-	border-top-right-radius: 6px;
 }
 .home_icon { 
 	filter: invert(63%) sepia(6%) saturate(1742%) hue-rotate(167deg) brightness(95%) contrast(99%);
