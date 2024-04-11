@@ -6,10 +6,10 @@ function CookieWalk() {
     <><div className="background">
       <div className="topnav">
         <div className="homenav">
-          <a href="http://www.naver.com"><div className="write"><img className="write_icon" src="/icon/write.svg" alt="" /></div></a>
+          <a href="http://www.naver.com"><div className="write"><img className="write_icon" src="./icon/write.svg" alt="" /></div></a>
           <div className="home_title">홈</div>
-          <a href="http://www.naver.com"><div className="notification"><img className="notification_icon" src="/icon/notification.svg" alt="" /></div></a>
-          <a href="#"><div className="friendadd"><img className="friendadd_icon" src="/icon/friendadd.svg" alt="" /></div></a>
+          <a href="http://www.naver.com"><div className="notification"><img className="notification_icon" src="./icon/notification.svg" alt="" /></div></a>
+          <a href="#"><div className="friendadd"><img className="friendadd_icon" src="./icon/friendadd.svg" alt="" /></div></a>
           <div className="homenav_line"></div>
         </div>
 
@@ -27,11 +27,11 @@ function CookieWalk() {
         </div>
       </div>
 
-      <div><img className='e7_22' src='/images/ellipse_7.png'/></div>
+      <div><img className='e7_22' src='./images/ellipse_7.png'/></div>
       <div className="name">running_go</div>
       <div className="place">부산 광안리</div>
 
-      <div className=""><img className='e11_2' src='/images/rectangle_2.png'/></div>
+      <div className=""><img className='e11_2' src='./images/rectangle_2.png'/></div>
       <div className="comment_name">running_go</div>
       <div className="contents">오랜만에 모닝 러닝한 날 ️🌄👟 오랜만에 모닝 러닝한 날 ️🌄👟오랜만에 모닝 러닝한 날 ️🌄👟 오랜만에 모닝 러닝한 날 ️🌄👟오랜만에 모닝 러닝한 날 ️🌄👟 오랜만에 모닝 러닝한 날 ️🌄👟</div>
       <div className="comment_num">댓글 3개 모두 보기</div>
@@ -40,18 +40,18 @@ function CookieWalk() {
       <div className="distance">거리 8.11km</div>
       <div className="time">시간 3h 13m</div>
 
-      <div className="heart"><img className="heart_icon" src="/icon/heart.svg" alt="" /></div>
-      <div className="comment"><img className="comment_icon" src="/icon/comment.svg" alt="" /></div>
-      <div className="save"><img className="save_icon" src="/icon/save.svg" alt="" /></div>
-      <div className="dotmenu"><img className="dotmenu_icon" src="/icon/dotmenu.svg" alt="" /></div>
-      <div className="share"><img className="share_icon" src="/icon/share.svg" alt="" /></div>
+      <div className="heart"><img className="heart_icon" src="./icon/heart.svg" alt="" /></div>
+      <div className="comment"><img className="comment_icon" src="./icon/comment.svg" alt="" /></div>
+      <div className="save"><img className="save_icon" src="./icon/save.svg" alt="" /></div>
+      <div className="dotmenu"><img className="dotmenu_icon" src="./icon/dotmenu.svg" alt="" /></div>
+      <div className="share"><img className="share_icon" src="./icon/share.svg" alt="" /></div>
 
     </div><div className="navbar">
         <a href="./index.html"><div className="home"><img className="home_icon" src="./icon/home.svg" alt="" /></div></a>
-        <a href="#"><div className="map"><img className="map_icon" src="/icon/map.svg" alt="" /></div></a>
-        <a href="#"><div className="run"><img className="run_icon" src="/icon/record.svg" alt="" /></div></a>
-        <a href="#"><div className="group"><img className="group_icon" src="/icon/group.svg" alt="" /></div></a>
-        <a href="./mypage/mypage.jsx"><div className="my"><img className="my_icon" src="/icon/my.svg" alt="" /></div></a>
+        <a href="#"><div className="map"><img className="map_icon" src="./icon/map.svg" alt="" /></div></a>
+        <a href="#"><div className="run"><img className="run_icon" src="./icon/record.svg" alt="" /></div></a>
+        <a href="#"><div className="group"><img className="group_icon" src="./icon/group.svg" alt="" /></div></a>
+        <a href="./mypage/mypage.jsx"><div className="my"><img className="my_icon" src="./icon/my.svg" alt="" /></div></a>
       </div></>
   );
 }
