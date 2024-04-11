@@ -1,7 +1,6 @@
-import React from 'react';
-import './index.css'; // CSS 파일을 import 합니다.
+import './home.css'; // CSS 파일을 import 합니다.
 
-function CookieWalk() {
+export default function Home() {
   return (
     <><div className="background">
       <div className="topnav">
@@ -55,5 +54,3 @@ function CookieWalk() {
       </div></>
   );
 }
-
-export default CookieWalk;
